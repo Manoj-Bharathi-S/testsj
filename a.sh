@@ -6,4 +6,4 @@ greet_user() {
 }
 
 # Call the function with arguments
-greet_user "Bob" "bangalore"
+greet_user "Bob" "bg"
